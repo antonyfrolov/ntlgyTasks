@@ -1,3 +1,3 @@
 # ntlgyTasks
 
-Домашние работы выполненные в рамках базового курса в Нетологии
+Homeworks in base iOS Developer course in Netology.
